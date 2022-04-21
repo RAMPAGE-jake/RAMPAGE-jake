@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RAMPAGE-jake
+- 👀 I’m interested in software engineer
+- 🌱 I’m currently learning Compuster Science
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me ...
