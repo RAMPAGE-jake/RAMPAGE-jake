@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @RAMPAGE-jake
-- 👀 I’m interested in software engineer
-- 🌱 I’m currently learning Compuster Science
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me ...
+## Miscellaneous
+
+Sponsor me ❤️: https://github.com/sponsors/JaredScar
+
+## GitHub Contribution Statistics
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=RAMPAGE-jake)
